@@ -4,6 +4,7 @@
 ## --Nope--Close--Match--##
 ###########################
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 
 # 1. The computer will think of 3 digit number that has no repeating digits.
